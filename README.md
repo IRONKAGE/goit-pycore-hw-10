@@ -1,4 +1,4 @@
-# goit-pycore-hw-08
+# goit-pycore-hw-10
 
 ***Технiчний опис завдань***
 
